@@ -5,7 +5,7 @@
 - Interested in coding and electronics.
 - Learning Python
 
-:wrench: I'm currently working on: Car Windshield HUD with RBP 3 and OpenAuto.
+:wrench: I'm currently working on: Creating chrome extensions
 
  > :smile:Learning More.
 
