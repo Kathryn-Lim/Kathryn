@@ -5,7 +5,7 @@
 - Interested in coding and electronics.
 - Learning Python
 
-:wrench: I'm currently working on: Creating chrome extensions
+:wrench: I'm currently working on: Twitter Retweeting Bot with Python
 
  > :smile:Learning More.
 
