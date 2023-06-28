@@ -5,7 +5,7 @@
 - Interested in coding and electronics.
 - Learning Python
 
-:wrench: I'm currently working on: Twitter Retweeting Bot with Python
+:wrench: I'm currently working on: Hand Gesture Recognition on an OpenAuto Headunit 
 
  > :smile:Learning More.
 
